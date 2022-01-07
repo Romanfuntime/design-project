@@ -1,0 +1,39 @@
+*{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: darkorchid;
+  }
+
+  .titles{
+    text-align: center;
+    width: 100%;
+  }
+  
+  table.cooltable {
+    width: 100%;
+    background-color: white;
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    color: black;
+  }
+    
+  table.cooltable td, table.cooltable th {
+    border-width: 1%;
+    background-color: white;
+    border-color: black;
+    border-style: solid;
+    padding: 3px;
+  }
+    
+  table.cooltable thead {
+  background-color: white;  
+  }
+
+  h1{
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+
+  #redtext{
+      color: crimson;
+  }
